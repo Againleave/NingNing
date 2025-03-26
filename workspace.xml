@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9e1e15b-3b41-4a0c-867c-913dc62341d6" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/love.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renxi/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renxi/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renxi/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renxi/jscex-async-powerpack.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renxi/jscex-async.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renxi/jscex-builderbase.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renxi/jscex-jit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renxi/jscex-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renxi/jscex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renxi/love.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2uqTjpPiJlNO5QzYhkYQf3OvMdJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/E/love",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d9e1e15b-3b41-4a0c-867c-913dc62341d6" name="更改" comment="" />
+      <created>1742975243332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742975243332</updated>
+      <workItem from="1742975244316" duration="1684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
